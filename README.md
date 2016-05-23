@@ -1,2 +1,3 @@
 # hello-world
-hello! It's my first Github repository, just for learning.
+I  am in JAVA and python, and try to learn automatically testing these days.
+Hope learn from skilled persons!
